@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Rithvij's github stats](https://github-readme-stats.vercel.app/api?username=phanirithvij)](https://github.com/anuraghazra/github-readme-stats)
+
+[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phanirithvij&layout=compact&langs_count=12)]
