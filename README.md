@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phanirithvij&layout=compact&title_color=f4ff04&text_color=fff249&icon_color=ffdb62&bg_color=000000&hide_border=true&langs_count=12)
 
+**Can't see this?** You must be using github in light mode, which is detremental to your eyesight.
+Switch to dark mode **ASAP**.
 [![snake](https://raw.githubusercontent.com/phanirithvij/phanirithvij/output/github-contribution-grid-snake-dark.svg)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
