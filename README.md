@@ -2,10 +2,15 @@
 
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phanirithvij&layout=compact&title_color=f4ff04&text_color=fff249&icon_color=ffdb62&bg_color=000000&hide_border=true&langs_count=12)
 
+<!--
+  add `-halloween` suffix to all of these on Oct 1-31
+  TODO make it work somehow without manual modification?
+  gha (commit on 1st and oct31) or some data="halloween" stuff?
+-->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phanirithvij/phanirithvij/refs/heads/output/github-contribution-grid-snake-dark-halloween.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phanirithvij/phanirithvij/refs/heads/output/github-contribution-grid-snake-halloween.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/phanirithvij/phanirithvij/refs/heads/output/github-contribution-grid-snake-halloween.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phanirithvij/phanirithvij/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phanirithvij/phanirithvij/refs/heads/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/phanirithvij/phanirithvij/refs/heads/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ### Profile pic history
