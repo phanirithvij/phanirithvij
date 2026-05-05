@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">loudgolem's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 155, Total Commits  (last year) : 2612, Total PRs: 534, Total Issues: 593, Contributed to (last year): 119</desc>
+        <desc id="descId">Total Stars Earned: 155, Total Commits  (last year) : 2615, Total PRs: 534, Total Issues: 593, Contributed to (last year): 119</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 21.843970329755017;
+        stroke-dashoffset: 21.843721942679803;
       }
     }
   
