@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">phanirithvij's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 161, Total Commits  (last year) : 2573, Total PRs: 751, Total Issues: 895, Contributed to (last year): 111</desc>
+        <desc id="descId">Total Stars Earned: 161, Total Commits  (last year) : 2574, Total PRs: 751, Total Issues: 895, Contributed to (last year): 111</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 21.164458419284447;
+        stroke-dashoffset: 21.16436591296001;
       }
     }
   
