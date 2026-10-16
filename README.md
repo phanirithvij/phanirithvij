@@ -1,5 +1,3 @@
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
 
 <!--
   add `-halloween` suffix to all of these on Oct 1-31
