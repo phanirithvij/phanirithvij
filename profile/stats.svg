@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Phani Rithvij's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 161, Total Commits  (last year) : 2464, Total PRs: 770, Total Issues: 903, Contributed to (last year): 110</desc>
+        <desc id="descId">Total Stars Earned: 161, Total Commits  (last year) : 2470, Total PRs: 772, Total Issues: 905, Contributed to (last year): 110</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 21.145403053130995;
+        stroke-dashoffset: 21.144617612225087;
       }
     }
   
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >770</text>
+      >772</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >903</text>
+      >905</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
