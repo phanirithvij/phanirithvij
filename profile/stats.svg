@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Phani Rithvij's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 164, Total Commits  (last year) : 2049, Total PRs: 863, Total Issues: 938, Contributed to (last year): 115</desc>
+        <desc id="descId">Total Stars Earned: 164, Total Commits  (last year) : 2051, Total PRs: 865, Total Issues: 939, Contributed to (last year): 116</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 20.963689058542812;
+        stroke-dashoffset: 20.96288823638714;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >2k</text>
+      >2.1k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >863</text>
+      >865</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >938</text>
+      >939</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >115</text>
+      >116</text>
     </g>
   </g>
     </svg>
